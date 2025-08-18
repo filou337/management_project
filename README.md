@@ -48,6 +48,6 @@ If you use or reference this work, please cite as:
 
 ## 📬 Contact
 - 👤 Philippe Roumbo – [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)  
-- 👤 [Reina BALTAGI]  
+- 👤 Reina BALTAGI  
 
 ---
