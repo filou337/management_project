@@ -22,4 +22,32 @@ The project focuses on analyzing management practices and strategic decision-mak
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 📈 Key Insights
+- **Innovation & Leadership** are crucial for adapting to disruptive technologies.  
+- **Big Data & AI** reshape managerial decision-making by providing predictive insights.  
+- **Sustainability & Ethics** are becoming central in performance evaluation.  
+- Effective management requires balancing **human capital** and **technological adoption**.  
+
+---
+
+## 🚀 Technologies & Tools
+- **Data Analysis:** Python, R, Power BI  
+- **Project Management Frameworks:** SWOT, PESTEL, Balanced Scorecard  
+- **Collaboration Tools:** GitHub, Slack, Trello  
+
+---
+
+## 📚 Citation
+If you use or reference this work, please cite as:  
+
+> Roumbo, P. & Baltagi, [Initials]. (2025). *Management Project – BIDABI Master’s Program.* Université Sorbonne Paris Nord.  
+
+---
+
+## 📬 Contact
+- 👤 Philippe Roumbo – [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)  
+- 👤 [Reina BALTAGI]  
+
+---
