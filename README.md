@@ -1,4 +1,4 @@
-# 🚀 Management Project – BIDABI 2024-2025
+# 🚀 Management de projet  – BIDABI 2024-2025
 
 ## 📌 Aperçu du projet
 
