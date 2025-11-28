@@ -1,53 +1,70 @@
 # 🚀 Management Project – BIDABI 2024-2025
 
-## 📌 Project Overview
-This repository contains the management project developed during the **Master’s program in Big Data & Business Intelligence (BIDABI)** at Université Sorbonne Paris Nord.  
+## 📌 Aperçu du projet
 
-The project focuses on analyzing management practices and strategic decision-making in the context of **innovation, digital transformation, and organizational performance**.
+Ce dépôt contient le **projet de management** réalisé dans le cadre du **Master Big Data & Business Intelligence (BIDABI)** à l’Université Sorbonne Paris Nord.  
 
----
-
-## 🎯 Objectives
-1. Explore the link between **management strategies** and **technological innovation**.  
-2. Analyze the role of **data-driven decision-making** in modern organizations.  
-3. Propose recommendations for **sustainable performance** in the digital era.  
+Le projet porte sur l’analyse des **pratiques managériales** et de la **prise de décision stratégique** dans un contexte d’**innovation**, de **transformation numérique** et de **performance organisationnelle**.
 
 ---
 
-## 🛠️ Methodology
-- **Literature Review:** Theoretical foundations of management and innovation.  
-- **Case Studies:** Application of management frameworks in real organizations.  
-- **Comparative Analysis:** Evaluation of strategies across different industries.  
-- **Strategic Recommendations:** Proposals for managers to align data, innovation, and business goals.  
+## 🎯 Objectifs
+
+1. Explorer le lien entre **stratégies managériales** et **innovation technologique**.  
+2. Analyser le rôle de la **décision fondée sur les données (data-driven)** dans les organisations modernes.  
+3. Proposer des recommandations pour une **performance durable** à l’ère du digital.  
 
 ---
 
+## 🛠️ Méthodologie
+
+- **Revue de littérature** :  
+  Fondements théoriques en management, innovation, transformation digitale et performance.  
+
+- **Études de cas** :  
+  Application de cadres d’analyse managériale au sein d’organisations réelles (secteurs variés).  
+
+- **Analyse comparative** :  
+  Comparaison de différentes stratégies de management et d’innovation entre secteurs / types d’entreprises.  
+
+- **Recommandations stratégiques** :  
+  Propositions concrètes pour aider les dirigeants à **aligner data, innovation et objectifs business**.
+
 ---
 
-## 📈 Key Insights
-- **Innovation & Leadership** are crucial for adapting to disruptive technologies.  
-- **Big Data & AI** reshape managerial decision-making by providing predictive insights.  
-- **Sustainability & Ethics** are becoming central in performance evaluation.  
-- Effective management requires balancing **human capital** and **technological adoption**.  
+## 📈 Principaux enseignements
+
+- **Innovation & leadership** sont clés pour s’adapter aux technologies disruptives.  
+- **Big Data & IA** transforment la prise de décision managériale en apportant des **insights prédictifs**.  
+- **Durabilité & éthique** deviennent des dimensions centrales dans l’évaluation de la performance.  
+- Un management efficace repose sur un **équilibre entre capital humain et adoption technologique**.  
 
 ---
 
-## 🚀 Technologies & Tools
-- **Data Analysis:** Python, R, Power BI  
-- **Project Management Frameworks:** SWOT, PESTEL, Balanced Scorecard  
-- **Collaboration Tools:** GitHub, Slack, Trello  
+## 🧰 Outils & cadres mobilisés
+
+- **Analyse de données** : Python, R, Power BI (selon les besoins du cas étudié)  
+- **Cadres de management & stratégie** :  
+  - SWOT (forces / faiblesses / opportunités / menaces)  
+  - PESTEL (environnement politique, économique, social, technologique, écologique, légal)  
+  - Balanced Scorecard (tableau de bord prospectif)  
+- **Outils de collaboration & gestion de projet** : GitHub, Trello, Slack (ou équivalents)
 
 ---
 
-## 📚 Citation
-If you use or reference this work, please cite as:  
+## 📚 Référence / citation
 
-> Roumbo, P. & Baltagi, [Initials]. (2025). *Management Project – BIDABI Master’s Program.* Université Sorbonne Paris Nord.  
+Si vous utilisez ou citez ce travail, merci de référencer :
+
+> Roumbo, P. & Baltagi, R. (2025). *Management Project – Master BIDABI.* Université Sorbonne Paris Nord.
+
+*(Adapter l’initiale du prénom de Baltagi si besoin.)*
 
 ---
 
 ## 📬 Contact
-- 👤 Philippe Roumbo – [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)  
-- 👤 Reina BALTAGI  
+
+- 👤 **Philippe Roumbo** – [LinkedIn](https://www.linkedin.com/in/philippe-roumbo) • [GitHub](https://github.com/filou337)  
+- 👤 **Reina Baltagi**  
 
 ---
